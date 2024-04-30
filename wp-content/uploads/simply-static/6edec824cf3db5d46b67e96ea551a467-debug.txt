@@ -9475,3 +9475,890 @@
 [2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
 [2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
 [2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/footer.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/gallery-full-screen-image.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/gallery-offset-images-grid-2-col.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/gallery-offset-images-grid-3-col.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/gallery-offset-images-grid-4-col.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/gallery-project-layout.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/hidden-404.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/hidden-comments.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/hidden-no-results.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/hidden-portfolio-hero.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/hidden-post-meta.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/hidden-post-navigation.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/hidden-search.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/hidden-sidebar.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/page-about-business.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/page-home-blogging.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/page-home-business.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/page-home-portfolio-gallery.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/page-home-portfolio.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/page-newsletter-landing.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/page-portfolio-overview.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1750 of 2075 pages/files
+[2024-04-30 08:56:46] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-30 08:56:46] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-30 08:56:46] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:55] Total pages: 2075; Pages remaining: 275
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/page-rsvp-landing.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/posts-1-col.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/posts-3-col.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/posts-grid-2-col.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/posts-images-only-3-col.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/posts-images-only-offset-4-col.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/posts-list.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/team-4-col.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/template-archive-blogging.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/template-archive-portfolio.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/template-home-blogging.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/template-home-business.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/template-home-portfolio.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/template-index-blogging.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/template-index-portfolio.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/template-search-blogging.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/template-search-portfolio.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/template-single-portfolio.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/testimonial-centered.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/text-alternating-images.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/text-centered-statement-small.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/text-centered-statement.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/text-faq.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/text-feature-grid-3-col.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/text-project-details.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/patterns/text-title-left-image-right.php
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/readme.txt
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/screenshot.png
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/style.css
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/styles/ember.json
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/styles/fossil.json
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/styles/ice.json
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/styles/maelstrom.json
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/styles/mint.json
+[2024-04-30 08:56:46] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 2075
+[2024-04-30 08:56:46] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:46] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/styles/onyx.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/styles/rust.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/templates/404.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/templates/archive.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/templates/home.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/templates/index.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/templates/page-no-title.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/templates/page-wide.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/templates/page-with-sidebar.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/templates/page.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/templates/search.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/templates/single-with-sidebar.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/templates/single.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentyfour/theme.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold-Italic.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1800 of 2075 pages/files
+[2024-04-30 08:56:47] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-30 08:56:47] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-30 08:56:47] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:55] Total pages: 2075; Pages remaining: 225
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular-Italic.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/LICENSE.txt
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Bold.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Italic.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Light.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/OFL.txt
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/inter/Inter-VariableFont_slnt,wght.ttf
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/inter/LICENSE.txt
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/LICENSE.md
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.otf.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.otf.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/parts/comments.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/parts/footer.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/parts/header.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/parts/post-meta.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/patterns/call-to-action.php
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/patterns/footer-default.php
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/patterns/hidden-404.php
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/patterns/hidden-comments.php
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/patterns/post-meta.php
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/readme.txt
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/screenshot.png
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/style.css
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/styles/aubergine.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/styles/block-out.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/styles/canary.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/styles/electric.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/styles/grapes.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/styles/marigold.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/styles/pilgrimage.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/styles/pitch.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/styles/sherbet.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/styles/whisper.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/templates/404.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/templates/archive.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/templates/blank.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/templates/blog-alternative.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/templates/home.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/templates/index.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/templates/page.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/templates/search.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/templates/single.html
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentythree/theme.json
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/dm-sans/DMSans-Bold.ttf
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/dm-sans/DMSans-BoldItalic.ttf
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1850 of 2075 pages/files
+[2024-04-30 08:56:47] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-30 08:56:47] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-30 08:56:47] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:55] Total pages: 2075; Pages remaining: 175
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/dm-sans/DMSans-Italic.ttf
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/dm-sans/DMSans-Regular.ttf
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/dm-sans/LICENSE.txt
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/ibm-plex/IBMPlexMono-Bold.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/ibm-plex/IBMPlexMono-BoldItalic.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/ibm-plex/IBMPlexMono-Text.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/ibm-plex/IBMPlexMono-TextItalic.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/ibm-plex/IBMPlexSans-ExtraLight.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/ibm-plex/IBMPlexSans-ExtraLightItalic.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/ibm-plex/IBMPlexSans-Light.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/ibm-plex/IBMPlexSans-LightItalic.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/ibm-plex/LICENSE.txt
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/inter/Inter.ttf
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/inter/LICENSE.txt
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/LICENSE.md
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.otf.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.otf.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Italic.otf.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Italic.ttf.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.otf.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:47] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2
+[2024-04-30 08:56:47] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 2075
+[2024-04-30 08:56:47] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/bird-on-black.jpg
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:65] Excludable found: URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/bird-on-black.jpg
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/bird-on-gray.jpg
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:65] Excludable found: URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/bird-on-gray.jpg
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/bird-on-green.jpg
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:65] Excludable found: URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/bird-on-green.jpg
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/bird-on-salmon.jpg
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:65] Excludable found: URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/bird-on-salmon.jpg
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/divider-black.png
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/divider-white.png
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/ducks.jpg
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:65] Excludable found: URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/ducks.jpg
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-gray-a.jpg
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:65] Excludable found: URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-gray-a.jpg
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-gray-b.jpg
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:65] Excludable found: URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-gray-b.jpg
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-gray-c.jpg
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:65] Excludable found: URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-gray-c.jpg
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-salmon.jpg
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:65] Excludable found: URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-salmon.jpg
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-transparent-a.png
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-transparent-b.png
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-transparent-c.png
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-transparent-d.png
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/icon-binoculars.png
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/icon-bird.jpg
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:65] Excludable found: URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/images/icon-bird.jpg
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:75] Skipping URL because it is no-save and no-follow
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/assets/videos/birds.mp4
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/functions.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/block-patterns.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/footer-about-title-logo.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/footer-blog.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/footer-dark.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/footer-default.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/footer-logo.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation-copyright.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/footer-navigation.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 1900 of 2075 pages/files
+[2024-04-30 08:56:48] [class-ss-archive-creation-job.php:177] We're not done with the fetch_urls task yet
+[2024-04-30 08:56:48] [class-ss-archive-creation-job.php:132] Current task: fetch_urls
+[2024-04-30 08:56:48] [class-ss-archive-creation-job.php:149] Performing task: fetch_urls
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:55] Total pages: 2075; Pages remaining: 125
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-images-title-citation.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/footer-query-title-citation.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/footer-social-copyright.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/footer-title-tagline-social.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-dark.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/general-divider-light.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/general-featured-posts.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/general-image-with-caption.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/general-large-list-names.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/general-list-events.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/general-pricing-table.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/general-subscribe.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/general-two-images-text.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/general-video-header-details.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/general-video-trailer.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo-black-background.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-logo.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:32; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-centered-title-navigation-social.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:31; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-default.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:30; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background-overlay.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:29; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-image-background.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:28; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-large-dark.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:27; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-gray-background.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:26; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-offset-tagline.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:25; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-logo-navigation-social-black-background.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:24; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-small-dark.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:23; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-stacked.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:22; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-green-background.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:21; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-salmon-background.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:20; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-text-only-with-tagline-black-background.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:19; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-title-and-button.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:18; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-title-navigation-social.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/header-with-tagline.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/hidden-404.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/hidden-bird.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/hidden-heading-and-bird.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-dark.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-left.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/page-about-media-right.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/page-about-simple-dark.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/page-about-solid-color.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:58] URL: C:/xampp/htdocs/wordpress/wp-content/themes/twentytwentytwo/inc/patterns/page-layout-image-and-text.php
+[2024-04-30 08:56:48] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 2075
+[2024-04-30 08:56:48] [class-ss-fetch-urls-task.php:69] URL is not being excluded
+[2024-04-30 08:56:48] [class-ss-url-fetcher.php:83] Not fetching URL because it is not a local URL
