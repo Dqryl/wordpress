@@ -1,0 +1,20 @@
+/* Ordered List Style */
+ul.is-style-health-bridge-list {
+  list-style-type: disc;
+}
+
+/* Unordered List Style */
+ol.is-style-health-bridge-list {
+  list-style-type: decimal;
+}
+
+/* Block Pull Quote Style */
+.wp-block-pullquote {
+  padding: 0px;
+}
+
+/* Table Styles */
+figcaption.wp-element-caption {
+  font-size: 1rem;
+  margin: 1rem 0;
+}

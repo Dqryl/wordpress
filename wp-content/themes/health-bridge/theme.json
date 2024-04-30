@@ -1,0 +1,324 @@
+{
+  "$schema": "https://schemas.wp.org/wp/6.4/theme.json",
+  "version": 2,
+  "settings": {
+    "appearanceTools": true,
+    "color": {
+      "palette": [
+        {
+          "color": "#12ac8e",
+          "name": "HB Primary",
+          "slug": "custom-hb-primary"
+        },
+        {
+          "color": "#0d846c",
+          "name": "HB Primary Dark",
+          "slug": "custom-hb-primary-dark"
+        },
+        {
+          "color": "#e9f7f7",
+          "name": "HB Primary Light",
+          "slug": "custom-hb-primary-light"
+        },
+        {
+          "color": "#fb923c",
+          "name": "HB Secondary",
+          "slug": "custom-hb-secondary"
+        },
+        {
+          "color": "#333333",
+          "name": "HB Text Dark",
+          "slug": "custom-hb-text-dark"
+        },
+        {
+          "color": "#767268",
+          "name": "HB Text Light",
+          "slug": "custom-hb-text-light"
+        },
+        {
+          "color": "#ffffff",
+          "name": "HB White",
+          "slug": "custom-hb-white"
+        }
+      ]
+    },
+    "layout": {
+      "contentSize": "1200px",
+      "wideSize": "1200px"
+    },
+    "spacing": {
+      "units": ["%", "px", "em", "rem", "vh", "vw"]
+    },
+    "typography": {
+      "fluid": true,
+      "fontSizes": [
+        {
+          "fluid": {
+            "max": "0.89rem",
+            "min": "0.8rem"
+          },
+          "name": "sm",
+          "slug": "hb-sm",
+          "size": "0.8rem"
+        },
+        {
+          "fluid": {
+            "max": "1.13rem",
+            "min": "1rem"
+          },
+          "name": "base",
+          "slug": "hb-base",
+          "size": "1rem"
+        },
+        {
+          "fluid": {
+            "max": "1.5rem",
+            "min": "1.25rem"
+          },
+          "name": "md",
+          "slug": "hb-md",
+          "size": "1.25rem"
+        },
+        {
+          "fluid": {
+            "max": "2rem",
+            "min": "1.56rem"
+          },
+          "name": "lg",
+          "slug": "hb-lg",
+          "size": "1.56rem"
+        },
+        {
+          "fluid": {
+            "max": "2.66rem",
+            "min": "1.95rem"
+          },
+          "name": "xl",
+          "slug": "hb-xl",
+          "size": "1.95rem"
+        },
+        {
+          "fluid": {
+            "max": "3.55rem",
+            "min": "2.44rem"
+          },
+          "name": "xxl",
+          "slug": "hb-xxl",
+          "size": "2.44rem"
+        },
+        {
+          "fluid": {
+            "max": "3rem",
+            "min": "4.75rem"
+          },
+          "name": "xxxl",
+          "slug": "hb-xxxl",
+          "size": "3rem"
+        }
+      ],
+      "fontFamilies": [
+        {
+          "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
+          "name": "System Font",
+          "slug": "system-font"
+        },
+        {
+          "fontFace": [
+            {
+              "fontFamily": "Poppins",
+              "fontStyle": "normal",
+              "fontWeight": "400",
+              "src": ["file:./assets/fonts/poppins_normal_400.ttf"]
+            },
+            {
+              "fontFamily": "Poppins",
+              "fontStyle": "normal",
+              "fontWeight": "500",
+              "src": ["file:./assets/fonts/poppins_normal_500.ttf"]
+            },
+            {
+              "fontFamily": "Poppins",
+              "fontStyle": "normal",
+              "fontWeight": "600",
+              "src": ["file:./assets/fonts/poppins_normal_600.ttf"]
+            },
+            {
+              "fontFamily": "Poppins",
+              "fontStyle": "normal",
+              "fontWeight": "700",
+              "src": ["file:./assets/fonts/poppins_normal_700.ttf"]
+            }
+          ],
+          "fontFamily": "Poppins",
+          "slug": "poppins"
+        }
+      ]
+    },
+    "useRootPaddingAwareAlignments": true
+  },
+  "styles": {
+    "color": {
+      "text": "var(--wp--preset--color--custom-hb-text-dark)"
+    },
+    "spacing": {
+      "blockGap": "0px"
+    },
+    "elements": {
+      "button": {
+        "color": {
+          "background": "var(--wp--preset--color--custom-hb-secondary)",
+          "text": "var(--wp--preset--color--white)"
+        },
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--poppins)",
+          "fontSize": "1rem"
+        }
+      },
+      "caption": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--poppins)"
+        }
+      },
+      "h1": {
+        "typography": {
+          "fontSize": "clamp(3.05rem, 3.37vw + 2.21rem, 4.73rem)",
+          "lineHeight": "1.4"
+        }
+      },
+      "h2": {
+        "typography": {
+          "fontSize": "clamp(2.44rem, 2.22vw + 1.89rem, 3.55rem)",
+          "lineHeight": "1.4"
+        }
+      },
+      "h3": {
+        "typography": {
+          "fontSize": "clamp(1.95rem, 1.42vw + 1.6rem, 2.66rem)",
+          "lineHeight": "1.2"
+        }
+      },
+      "h4": {
+        "typography": {
+          "fontSize": "clamp(1.56rem, 0.87vw + 1.34rem, 2rem)",
+          "lineHeight": "1.2"
+        }
+      },
+      "h5": {
+        "typography": {
+          "fontSize": "clamp(1.25rem, 0.5vw + 1.13rem, 1.5rem)",
+          "lineHeight": "1.2"
+        }
+      },
+      "h6": {
+        "typography": {
+          "fontSize": "clamp(1rem, 0.25vw + 0.94rem, 1.13rem)",
+          "lineHeight": "1.2"
+        }
+      },
+      "heading": {
+        "color": {
+          "text": "var(--wp--preset--color--custom-hb-text-dark)"
+        },
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--poppins)",
+          "fontStyle": "normal",
+          "fontWeight": "700"
+        }
+      },
+      "link": {
+        "color": {
+          "text": "var(--wp--preset--color--custom-hb-text-dark)"
+        },
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--poppins)",
+          "fontSize": "1rem"
+        }
+      }
+    },
+    "blocks": {
+      "core/paragraph": {
+        "css": "font-size: 1rem; margin-bottom:1rem;"
+      },
+      "core/heading": {
+        "elements": {
+          "link": {
+            "typography": {
+              "textDecoration": "underline",
+              "fontSize": "inherit"
+            },
+            ":hover": {
+              "color": {
+                "text": "var(--wp--preset--color--custom-hb-primary)"
+              }
+            }
+          }
+        }
+      },
+      "core/verse": {
+        "color": {
+          "text": "var(--wp--preset--color--custom-hb-text-light)",
+          "background": "var(--wp--preset--color--custom-hb-primary-light)"
+        },
+        "spacing": {
+          "padding": {
+            "top": "1rem",
+            "bottom": "1rem",
+            "left": "1rem",
+            "right": "1rem"
+          }
+        }
+      },
+      "core/preformatted": {
+        "color": {
+          "background": "var(--wp--preset--color--custom-hb-primary-light)"
+        },
+        "spacing": {
+          "padding": {
+            "top": "1rem",
+            "bottom": "1rem",
+            "left": "1rem",
+            "right": "1rem"
+          }
+        }
+      }
+    },
+    "typography": {
+      "fontFamily": "var(--wp--preset--font-family--poppins)",
+      "fontSize": "1rem"
+    }
+  },
+  "customTemplates": [
+    {
+      "name": "blank",
+      "title": "Blank",
+      "postTypes": ["page", "post"]
+    },
+    {
+      "name": "full-width",
+      "title": "Full Width",
+      "postTypes": ["page", "post"]
+    }
+  ],
+  "templateParts": [
+    {
+      "area": "header",
+      "name": "header",
+      "title": "Header"
+    },
+    {
+      "area": "footer",
+      "name": "footer",
+      "title": "Footer"
+    },
+    {
+      "area": "uncategorized",
+      "name": "sidebar",
+      "title": "Sidebar"
+    },
+    {
+      "area": "uncategorized",
+      "name": "header-transparent",
+      "title": "Transparent Header"
+    }
+  ]
+}

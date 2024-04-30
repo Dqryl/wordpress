@@ -1,0 +1,280 @@
+/*ExS Education Styles*/
+.singular .comment-content a:not([class]),
+.singular #layout article .entry-content a:not([class]){
+	text-decoration: underline;
+}
+
+.singular .comment-content a:not([class]):hover,
+.singular #layout article .entry-content a:not([class]):hover{
+	text-decoration: none;
+}
+
+input[type=date],
+input[type=datetime],
+input[type=datetime-local],
+input[type=email],
+input[type=month],
+input[type=number],
+input[type=password],
+input[type=search],
+input[type=tel],
+input[type=text],
+input[type=time],
+input[type=url],
+input[type=week],
+textarea,
+select{
+	min-height: 50px;
+}
+
+.search-form button.search-submit{
+	padding: 15px;
+}
+
+.header-search{
+	width: 100%;
+}
+
+.top-menu > li > a:before{
+	z-index: -1;
+}
+
+.widgets-wrap > *{
+	background-color: var(--colorLight);
+	padding: 24px;
+	overflow: hidden;
+	border-radius: 8px;
+	border: 1px solid var(--colorBorder);
+}
+
+.page-template-no-sidebar-no-title #layout > *{
+	padding-top: 1px;
+}
+
+.columns-gap{
+	width: 24px;
+}
+
+.posts-list li h3,
+.posts-list li h4{
+	margin-bottom: .75em;
+	font-weight: 500;
+}
+
+.content-absolute .overlap-content{
+	padding: 3em 24px 24px;
+}
+
+.breadcrumbs,
+.icon-inline,
+li .post-date.icon-inline,
+.entry-footer,
+.comment-meta,
+.reply,
+.woo div.product .woocommerce-tabs ul.tabs li a,
+.product_meta{
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 21px;
+	letter-spacing: .5px;
+	text-transform: uppercase;
+}
+
+li .post-date.icon-inline{
+	margin-top: 4px;
+	align-items: center;
+}
+
+.page-numbers .icon-inline{
+	line-height: inherit;
+}
+
+.entry-footer{
+	margin: 0 0 1.75em;
+}
+
+.entry-header + .entry-footer{
+	margin-top: 1.75em !important;
+}
+
+.entry-footer:last-child{
+	margin-top: 2em;
+}
+
+.grid-item .entry-title{
+	font-size: 1.15em;
+}
+
+.hfeed article + article{
+	border-top: 1px solid var(--colorBorder);
+	padding-top: 4.5em;
+}
+
+.column-aside .widgets-wrap > * + *{
+	margin-top: 0;
+}
+
+.column-aside .widgets-wrap > *{
+	margin-bottom: 24px;
+}
+
+.single article .entry-footer:last-child{
+	margin: 4.5em 0;
+	padding: 2.5em 0 2em;
+	border-top: 1px solid var(--colorBorder);
+	border-bottom: 1px solid var(--colorBorder);
+}
+
+.related-posts{
+	margin: 4.5em 0 3.5em;
+	padding: 0 0 4.5em;
+	border-bottom: 1px solid var(--colorBorder);
+}
+
+.author-meta{
+	padding: 24px;
+}
+
+@media screen and (max-width: 1199px) {
+	.post-nav{
+		flex-wrap: wrap;
+	}
+
+	.post-nav > *{
+		width: 100%;
+		max-width: none;
+		flex-basis: auto;
+	}
+
+	.post-nav > *:last-child{
+		border-top: 1px solid;
+		border-color: var(--colorBorder);
+	}
+}
+
+.author-meta,
+.woo ul.products li.product .product-loop-item,
+.single .summary.entry-summary,
+.single .woocommerce-product-gallery,
+.woo div.product .woocommerce-tabs .panel,
+.woocommerce-error,
+.woocommerce-info,
+.woocommerce-message,
+.learn-press-courses[data-layout=grid] .course-item,
+.learn-press-courses[data-layout=list] .course{
+	background-color: var(--colorLight);
+	border: 1px solid var(--colorBorder);
+	border-radius: 8px;
+}
+
+.learn-press-courses[data-layout=grid] .course-wrap-meta .meta-item > div{
+	display: inline-block;
+}
+
+#box .learn-press-courses[data-layout=grid] .course-content{
+	background-color: transparent;
+}
+
+.comments-area,
+.lp-archive-courses .course-summary-sidebar__inner .course-sidebar-top,
+#box .course-summary .course-detail-info,
+.lp-user-profile .wrapper-profile-header,
+.lp-single-instructor__info,
+.lp-list-instructors .ul-list-instructors li.item-instructor,
+.dashboard-statistic__row .statistic-box{
+	border-radius: 8px;
+}
+
+#box #learn-press-course-tabs .course-tab-panel{
+	padding: 36px 0 0;
+	background: transparent;
+	border: none;
+}
+
+#box .lp-archive-courses ul.course-nav-tabs{
+	border-bottom: 1px solid var(--colorBorder);
+}
+
+#box .lp-archive-courses ul.course-nav-tabs .course-nav label{
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 21px;
+	letter-spacing: .5px;
+	text-transform: uppercase;
+	border: none !important;
+}
+
+#box .lp-archive-courses ul.course-nav-tabs .course-nav:hover{
+	background: transparent;
+}
+
+#box .lp-archive-courses ul.course-nav-tabs .course-nav:before,
+#box .lp-archive-courses ul.course-nav-tabs .course-nav:after{
+	top: auto;
+	bottom: -1px;
+	height: 1px;
+}
+
+.woo div.product .woocommerce-tabs ul.tabs{
+	padding-left: 0;
+	overflow: visible;
+	border-bottom: 1px solid var(--colorBorder);
+}
+
+.woo div.product .woocommerce-tabs ul.tabs li{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	background: transparent;
+	z-index: 20;
+	position: relative;
+	top: 1px;
+	border-bottom: 1px solid transparent;
+}
+
+.woo div.product .woocommerce-tabs ul.tabs li a{
+	padding: 16px 20px;
+}
+
+.woo div.product .woocommerce-tabs ul.tabs li.active{
+	background: transparent;
+	border-color: var(--colorMain);
+}
+
+.woo div.product .woocommerce-tabs ul.tabs li.active a{
+	color: var(--colorDarkMuted);
+}
+
+.single .summary.entry-summary{
+	padding: 24px;
+	overflow: hidden;
+	border-radius: 8px;
+	border: 1px solid var(--colorBorder);
+}
+
+.woo div.product .woocommerce-tabs .panel{
+	padding: 36px 0 0;
+	border: 0;
+}
+
+.woo div.product .woocommerce-tabs ul.tabs:before{
+	display: none;
+}
+
+.product-loop-item .product-text-wrap{
+	padding: 0 24px 24px;
+}
+
+.woo ul.products li.product .woocommerce-loop-category__title{
+	padding-left: 24px;
+	padding-right: 24px;
+}
+
+.search .woo ul,
+.search .woo ul li.product{
+	margin: 0;
+}
+
+.search .woo + .woo{
+	margin-top: 24px;
+}

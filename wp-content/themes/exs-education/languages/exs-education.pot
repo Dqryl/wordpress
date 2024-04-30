@@ -1,0 +1,77 @@
+# Copyright (C) 2024 exs-education
+# This file is distributed under the same license as the exs-education package.
+msgid ""
+msgstr ""
+"Project-Id-Version: exs-education\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: exs.apps@gmail.com\n"
+"POT-Creation-Date: 2024-01-06 20:49+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: functions.php:547
+msgid "Related posts"
+msgstr ""
+
+#: functions.php:642
+msgid "Message was sent!"
+msgstr ""
+
+#: functions.php:643
+msgid "There was an error during message sending!"
+msgstr ""
+
+#: functions.php:647
+msgid "You have subscribed successfully!"
+msgstr ""
+
+#: functions.php:648
+msgid "There was an error during subscribing!"
+msgstr ""
+
+#: functions.php:649
+msgid "You are already subscribed!"
+msgstr ""
+
+#: functions.php:877
+msgctxt "Theme starter content"
+msgid "Example image 1"
+msgstr ""
+
+#: functions.php:887
+msgid "Title with subtitle"
+msgstr ""
+
+#: functions.php:894
+msgid "Single Post"
+msgstr ""
+
+#: functions.php:900
+msgid "Blog"
+msgstr ""
+
+#: functions.php:910
+msgid "Home"
+msgstr ""
+
+#: functions.php:916
+msgid "About Us"
+msgstr ""
+
+#: functions.php:921
+msgid "Typography"
+msgstr ""
+
+#: functions.php:926
+msgid "Contacts"
+msgstr ""
+
+#: functions.php:943, functions.php:977
+msgid "Primary"
+msgstr ""
